@@ -1,0 +1,27 @@
+.aa{
+	background:rgba(255,255,2255,0.5);
+}
+.head0{
+	font-size: 0.48rem;
+	font-style: normal;
+	color: #333;
+}
+.tit0{
+	font-size: 0.24rem;
+	display: inline-block;
+	width: 0.28rem;
+	height: 0.28rem;
+	background-color: #f00;
+	color: #fff;
+	margin-left: 0.01rem;
+	margin-right: 0.01rem;
+}
+.tit1{
+	font-size: 0.24rem;
+	color: #333;
+}
+.iconfont{
+	font-size: 0.36rem;
+	color: #5f5f5f;
+}
+   
